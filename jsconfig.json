@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "checkJs": true,
+        "keyofStringsOnly": false,
+        "noErrorTruncation": false,
+        "noFallthroughCasesInSwitch": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noUncheckedIndexedAccess": false,
+        "resolveJsonModule": true,
+        "strict": true,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "strictPropertyInitialization": true,
+        "strictNullChecks": true,
+        "suppressExcessPropertyErrors": false,
+        "suppressImplicitAnyIndexErrors": false,
+        "useUnknownInCatchVariables": true,
+
+        "noEmit": true,
+
+        "noLib": true,
+        "skipLibCheck": true,
+
+        "types": [
+            "./lib.stdlib.d.ts",
+            "./lib.dotsandboxes.d.ts"
+        ]
+    }
+}
