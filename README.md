@@ -10,8 +10,11 @@ The player that will be used as your submission is the `mod.js` file.
 
 The following players are not submitted. They are samples for helping you figure out how to get started:
 
+- `edging_player.js`
 - `first_opening_player.js`
+- `greedy_player.js`
 - `random_player.js`
+- `split_personality_player.js`
 - `strategic_player.js`
 
 ## Need Help?
